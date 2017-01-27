@@ -1,5 +1,7 @@
-# PYTHON2 PRINT
-print 'Hello World!'
+## Here is an example of a python 2 print!
 
-#PYTHON3 PRINT
-print ('Hello World!')
+print 'ELHS IS THE BEST'
+
+## Here is an example of a python 3 print!
+
+print('ELHS IS THE BEST')
