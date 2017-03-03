@@ -1,7 +1,5 @@
 
 #Daniel
-# PYTHON2 PRINT
-print 'Hello World!'
-
-# PYTHON3 PRINT
-print ('Hello World!')
+#LOLCODE1
+while True :
+    print "Savage Dab"
