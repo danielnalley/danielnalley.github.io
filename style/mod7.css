@@ -1,5 +1,13 @@
 
-body {
+pre {
   background-color: yellow;
-  border-style: inset;
+  border-style:inset;
+}
+p {
+  background-color: red; 
+  border-style:inset;
+}
+body {
+  background-color: blue;
+  border-style:inset;
 }
