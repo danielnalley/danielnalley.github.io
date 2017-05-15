@@ -1,9 +1,7 @@
 #!/usr/bin/python
 
-dict = {'Level': '27', 'EXP': ‘41,349’, ‘EXP Needed’: ‘43,500’, 'Name': ‘DankBoi’, ‘Skill’: ‘Dual Wield’}
+...tup1 = ('memes', 'are', 'dank');
 
-print "dict[‘Level’]: ", dict[‘Level’]
-print "dict[‘EXP’]: ", dict[‘EXP’]
-print "dict[‘EXP Needed’]: ", dict['EXP Needed']
-print "dict['Name']: ", dict['Name']
-print "dict['Skill']: ", dict['Skill']
+print "tup1[0]: ", tup1[0]
+print "tup1[1]: ", tup1[1]
+print "tup1[2]: ", tup1[2]
